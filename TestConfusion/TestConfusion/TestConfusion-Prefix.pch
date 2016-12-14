@@ -1,0 +1,15 @@
+//
+//  TestConfusion-Prefix.pch
+//  TestConfusion
+//
+//  Created by 申铭 on 16/12/11.
+//  Copyright © 2016年 shenming. All rights reserved.
+//
+
+#ifndef TestConfusion_Prefix_h
+#define TestConfusion_Prefix_h
+
+//添加混淆作用的头文件（这个文件名是脚本confuse.sh中定义的）
+#import "codeObfuscation.h" // 写在最上面的位置
+
+#endif /* TestConfusion_Prefix_h */
